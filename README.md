@@ -22,7 +22,7 @@ Classification is a type of Supervised Learning where we predict **categories** 
 Good luck and happy coding! 💪
 
 ## 📂 Resources  
-- 📌 **Colab Notebook:** [ISB_breastCancer.ipynb](https://colab.research.google.com/drive/1pjHjIFCAyP4HVVdwZhfR4_yh9zmoXxW)   <-- Code in here!
+- 📌 **Colab Notebook:** [ISB_breastCancer.ipynb](https://colab.research.google.com/drive/1pjHjIFCAyP4HVVdwZhfR4_yh9zmoXxW_?usp=sharing)   <-- Code in here!
 - 📩 **Submit Your Results:** [ISB Machine Learning Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfD12_xgLNtp90clNhh5V29efmfaMEXB0w0lW2bZsdrijbPxg/viewform?usp=dialog)  
 
 ## 💡 Tips for Success  
