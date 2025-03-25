@@ -14,7 +14,7 @@ Classification is a type of Supervised Learning where we predict **categories** 
 3. Submit your results through the provided **submission form**.  
 4. Compete with others to achieve the highest accuracy and recall! 🎯
    
-## 🏆**There will be two rewards:**
+## 🏆 **There will be two rewards:**
 1. 🏅 **Highest Recall & Accuracy**: The person who achieves the highest recall will win the first reward. In case of a tie in recall, accuracy will serve as the tiebreaker, followed by the model with the fewest features.
   
 2. 🏅 **Fewest Features, High Accuracy & Recall**: The second reward will go to the person who uses the fewest possible features while maintaining high accuracy and recall.
