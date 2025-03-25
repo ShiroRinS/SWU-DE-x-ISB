@@ -12,7 +12,14 @@ Classification is a type of Supervised Learning where we predict **categories** 
 1. Open the **Google Colab Notebook** (linked below).  
 2. Follow the step-by-step guide to train a Machine Learning model on breast cancer data.  
 3. Submit your results through the provided **submission form**.  
-4. Compete with others to achieve the **highest accuracy!** 🎯  
+4. Compete with others to achieve the highest accuracy and recall! 🎯
+
+# There will be two rewards:
+1. 🏅 **Highest Recall & Accuracy**: The person who achieves the highest recall will win the first reward. In case of a tie in recall, accuracy will serve as the tiebreaker, followed by the model with the fewest features.
+  
+2. 🏅 **Fewest Features, High Accuracy & Recall**: The second reward will go to the person who uses the fewest possible features while maintaining high accuracy and recall.
+
+Good luck and happy coding! 🏆
 
 ## 📂 Resources  
 - 📌 **Colab Notebook:** [ISB_breastCancer.ipynb](https://colab.research.google.com/drive/1pjHjIFCAyP4HVVdwZhfR4_yh9zmoXxW_?authuser=1)   <-- Code in here!
